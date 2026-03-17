@@ -30,7 +30,7 @@ class PrajwalRP:
         self.name        = "Prajwal R P"
         self.role        = "Software Engineer — AI/ML & Full Stack"
         self.university  = "Reva University (B.Tech CSE — AI & ML, 2022–2026)"
-        self.cgpa        = 9.0
+        self.cgpa        = 8.7
         self.location    = "Bengaluru, India 🇮🇳"
         self.email       = "prajwal.r.p196@gmail.com"
 
