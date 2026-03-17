@@ -20,44 +20,37 @@
 
 </div>
 
-
+---
 
 ## 🧠 About Me
 
+<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-class PrajwalRP:
-    def __init__(self):
-        self.name        = "Prajwal R P"
-        self.role        = "Software Engineer — AI/ML & Full Stack"
-        self.university  = "Reva University (B.Tech CSE — AI & ML, 2022–2026)"
-        self.cgpa        = 8.7
-        self.location    = "Bengaluru, India 🇮🇳"
-        self.email       = "prajwal.r.p196@gmail.com"
+```yaml
+👤  Name     : Prajwal R P
+🎯  Role     : AI/ML Engineer & Full-Stack Developer
+🏫  Degree   : B.Tech CSE (AI & ML) @ Reva University
+📅  Batch    : 2022 – 2026
+📊  CGPA     : 8.7 / 10
+📍  Location : Bengaluru, India 🇮🇳
+📧  Email    : prajwal.r.p196@gmail.com
+```
 
-    @property
-    def currently_working_on(self):
-        return [
-            "Multi-Agent AI Automation Systems",
-            "AI-Powered Career Development Tools",
-            "Scalable Full-Stack E-Commerce Platforms",
-        ]
+```yaml
+🔭  Currently Building:
+    → Multi-Agent AI Automation Systems
+    → AI-Powered Career Development Tools
+    → Scalable Full-Stack E-Commerce Platforms
 
-    @property
-    def stack(self):
-        return {
-            "languages"  : ["Python", "Java", "JavaScript", "C"],
-            "frontend"   : ["React.js", "HTML5", "CSS3"],
-            "backend"    : ["Node.js", "Express.js", "REST APIs"],
-            "database"   : ["MongoDB"],
-            "ai_ml"      : ["NLP", "RAG", "LangFlow", "Deep Learning", "Scikit-learn"],
-            "tools"      : ["Git", "Linux", "Streamlit", "LiveKit", "Vapi"],
-        }
+💡  Interests:
+    → Large Language Models & RAG Pipelines
+    → Real-time AI Voice & Conversational Agents
+    → Full-Stack Web Apps with AI Integration
 
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something amazing 🚀")
+🤝  Open To  : Internships · Full-Time Roles · Collabs
+```
 
-
-
+---
 
 ## 🚀 Featured Projects
 
@@ -111,19 +104,19 @@ class PrajwalRP:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alpha-Rp&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=3FB950&text_color=c9d1d9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alpha-Rp&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Alpha-Rp&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
 
 </div>
 
+<br/>
+
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alpha-Rp&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
-
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Alpha-Rp&bg_color=0d1117&color=58A6FF&line=3FB950&point=FF6B6B&area=true&hide_border=true&area_color=58A6FF" />
 </div>
 
 ---
