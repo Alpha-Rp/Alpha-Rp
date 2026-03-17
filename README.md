@@ -20,11 +20,11 @@
 
 </div>
 
----
+
 
 ## 🧠 About Me
 
-```python
+
 class PrajwalRP:
     def __init__(self):
         self.name        = "Prajwal R P"
@@ -55,9 +55,9 @@ class PrajwalRP:
 
     def say_hi(self):
         print("Thanks for stopping by! Let's build something amazing 🚀")
-```
 
----
+
+
 
 ## 🚀 Featured Projects
 
